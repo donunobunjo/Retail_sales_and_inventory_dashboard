@@ -22,7 +22,7 @@ Below are snapshots of the three main dashboard pages included in this project.
 
 | Executive Overview | Inventory Management | Sales & Pricing Analytics |
 |--------------------|----------------------|---------------------------|
-| ![Executive Overview](https://raw.githubusercontent.com/donunobunjo/Retail_sales_and_inventory_dashboard/main/Images/Dashboard.PNG) | ![Inventory Management](https://raw.githubusercontent.com/donunobunjo/Retail_sales_and_inventory_dashboard/main/Images/inventory_mgt.png) | ![Sales & Pricing](https://raw.githubusercontent.com/donunobunjo/Retail_sales_and_inventory_dashboard/main/Images/sales_and_pricing.png) |
+| ![Executive Overview](https://raw.githubusercontent.com/donunobunjo/Retail_sales_and_inventory_dashboard/main/Images/Dashboard.PNG) | ![Inventory Management](https://raw.githubusercontent.com/donunobunjo/Retail_sales_and_inventory_dashboard/main/Images/Inventory_mgt.PNG) | ![Sales & Pricing](https://raw.githubusercontent.com/donunobunjo/Retail_sales_and_inventory_dashboard/main/Images/sales_and_pricing.PNG) |
 
 <p align="center">
   <em>Figure: Overview of the interactive Power BI dashboard pages.</em>
