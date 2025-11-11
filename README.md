@@ -33,11 +33,7 @@ Below are snapshots of the three main dashboard pages included in this project.
 ## ⚙️ Approach
 
 ### 🧮 Data Preparation & Modeling
-- Cleaned and transformed raw data (Sales, Inventory, Product, Region) in **Power Query**.
-- Built a **Star Schema**:
-  - Fact Tables → `Sales`, `Inventory`
-  - Dimension Tables → `Date`, `Store`, `Category`, `Region`
-- Created relationships and applied filters for dynamic reporting.
+- Cleaned and transformed raw data in **Power Query**.
 
 ### 📏 Key DAX Measures
 Some key calculated metrics used across the dashboard:
