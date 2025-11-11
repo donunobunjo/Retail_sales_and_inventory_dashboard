@@ -34,6 +34,7 @@ Below are snapshots of the three main dashboard pages included in this project.
 
 ### 🧮 Data Preparation & Modeling
 - Cleaned and transformed raw data in **Power Query**.
+- [Dataset](https://www.kaggle.com/datasets/anirudhchauhan/retail-store-inventory-forecasting-dataset)
 
 ### 📏 Key DAX Measures
 Some key calculated metrics used across the dashboard:
